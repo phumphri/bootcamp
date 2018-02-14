@@ -1,1 +1,2 @@
-print("Test 3")
+# New test
+print("Test")
