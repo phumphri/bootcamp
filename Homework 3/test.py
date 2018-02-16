@@ -1,2 +1,2 @@
-# New test
+# Updated
 print("Test")
